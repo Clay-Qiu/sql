@@ -106,6 +106,7 @@ Please do not pick the exact same tables that I have already diagrammed. For exa
 	- <img src="./images/01_farmers_market_conceptual_model.png" width="600">
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
+
 ***
 
 ## Section 2:
@@ -206,4 +207,5 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
+The Ontario Health Care System database is the one I encounter in my daily life that is affected by society's value systems. As an international student, I use UHIP instead of OHIP in the health care system, which is not linked with the local clinical system. I don't have access to my medical report when I go to a clinic or a lab to do some tests. The only way I can access my medical report is to book another appointment with the doctor and watch it under the doctor's supervision. Doctors can not even print it and give it to me under today's regulations. My OHIP friends can easily access the reports through the APP or online. Although we register the resident locations, UHIP is not linked to the province's health care system. This situation is unfair and shows that international students are not accepted as equality as the government says.
 ```
