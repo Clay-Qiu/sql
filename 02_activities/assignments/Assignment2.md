@@ -186,5 +186,6 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+When developing the database for AI training, like ImageNet, they are built on human-labeled data that may reflect societal prejudices. These systems can mislabel people in offensive or harmful ways. These human-based bias reflect the society when they built it but the society is changing quickly. The perpetuation of bias in AI systems raises questions about fairness, accountability, and the potential harm these systems can cause, particularly to marginalized groups. It also highlights the need for ethical oversight in the development of AI technologies.
+It also shows that the ethical responsibility in AI research. Dr. Fei-Fei Li’s work on ImageNet and the subsequent efforts to address biases and offensive labels in the dataset. Indicating researchers and developers in AI have a responsibility to ensure their work does not perpetuate harm. This includes addressing biases, ensuring transparency, and considering the broader societal implications of their technologies.
 ```
