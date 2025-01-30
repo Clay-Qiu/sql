@@ -45,8 +45,12 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 
 **HINT:** You do not need to create any data for this prompt. This is a conceptual model only. 
 
+<img src="./images/section1prompt1.png" width="900">
+
 #### Prompt 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
+
+<img src="./images/section1prompt2.png" width="900">
 
 #### Prompt 3
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2? 
@@ -54,7 +58,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 will use new information to replace old information. Type 2 will add a new row to store the new information.
 ```
 
 ***
@@ -182,5 +186,6 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+When developing the database for AI training, like ImageNet, they are built on human-labeled data that may reflect societal prejudices. These systems can mislabel people in offensive or harmful ways. These human-based bias reflect the society when they built it but the society is changing quickly. The perpetuation of bias in AI systems raises questions about fairness, accountability, and the potential harm these systems can cause, particularly to marginalized groups. It also highlights the need for ethical oversight in the development of AI technologies.
+It also shows that the ethical responsibility in AI research. Dr. Fei-Fei Li’s work on ImageNet and the subsequent efforts to address biases and offensive labels in the dataset. Indicating researchers and developers in AI have a responsibility to ensure their work does not perpetuate harm. This includes addressing biases, ensuring transparency, and considering the broader societal implications of their technologies.
 ```
